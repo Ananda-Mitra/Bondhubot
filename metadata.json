@@ -1,0 +1,13 @@
+{
+  "name": "BondhuBot (বন্ধুবট)",
+  "short_name": "BondhuBot",
+  "description": "An AI-powered Bangladeshi local assistant for finding workers, transport, and market prices in Bangla.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F8F9FA",
+  "theme_color": "#2E7D32",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
